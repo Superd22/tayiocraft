@@ -1,0 +1,7 @@
+name = "Bliss-Shader-main"
+filename = "Bliss-Shader-main.zip"
+
+[download]
+url = "https://github.com/X0nk/Bliss-Shader/archive/refs/heads/main.zip"
+hash-format = "sha256"
+hash = "dc36f41ca9a7d1809740ce67546dadcb9a2ded0af4a296759a5865ed6bdacd01"
