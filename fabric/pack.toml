@@ -1,12 +1,12 @@
 name = "Tayiocraft"
 author = "Superd22"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "12fb98b8381a47ec808c9dd20bd02aae204a43fa333ce387b377b8d9cdf3d971"
+hash = "c60e197062c55d820e00e00dbd3e2007667aea124e6b7c6075908622fc8b6468"
 
 [versions]
 fabric = "0.16.3"
