@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/Superd22/tayiocraft/compare/fabric-v1.0.0...fabric-v0.1.0) (2024-09-03)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 0.1.0 ([7d6e20e](https://github.com/Superd22/tayiocraft/commit/7d6e20ef07c395fcab1759b562d7d1945d3701b7))
+
 ## 0.1.0 (2024-09-03)
 
 
