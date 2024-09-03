@@ -20,8 +20,18 @@ hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "5cf2c39729ed2cfa134c6a872f2cdaf5bee08ede229e8724cfc3630ae62b52b7"
 metafile = true
 
 [[files]]
@@ -192,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "5a57a2f55dd01cbfd7a22419d3ce39db05cc15b0af2e23c6d292d4d5dbe5448a"
 metafile = true
 
 [[files]]
