@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/Superd22/tayiocraft/compare/fabric-v0.1.0...fabric-v0.2.0) (2024-10-06)
+
+
+### ★ Features
+
+* new automations ([#9](https://github.com/Superd22/tayiocraft/issues/9)) ([f3f8169](https://github.com/Superd22/tayiocraft/commit/f3f81695bbc9f80973abf4172344e0453e45276e))
+
 ## [0.1.0](https://github.com/Superd22/tayiocraft/compare/fabric-v1.0.0...fabric-v0.1.0) (2024-09-03)
 
 
