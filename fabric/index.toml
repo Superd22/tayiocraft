@@ -65,6 +65,11 @@ hash = "3af7d46849f1295e82437766c52e9a8635ce2c15e47870758f9d98ffb267ff25"
 metafile = true
 
 [[files]]
+file = "mods/create-builders.pw.toml"
+hash = "3d7a82c9eb5692561f763bb74b895e913d058647507de9a9fedca485afd1bd12"
+metafile = true
+
+[[files]]
 file = "mods/create-compat-betterend-betternether.pw.toml"
 hash = "fe1c95f4f154e6244f8efbc5f0ea9065f1fde7281943f26e9153935785a85aae"
 metafile = true
@@ -80,13 +85,28 @@ hash = "e5a350a26699fb065c64616f05e7b79c25d46344d9b40e82f6e35cd1d87836e8"
 metafile = true
 
 [[files]]
+file = "mods/create-more-farmables.pw.toml"
+hash = "b07b4f2b2b38949f6951dc4f7da2a02220bd3fced3750bfbdb2ae91709c36d7b"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "29fad1b4f3676946a0e05c6ebe95acb8bad9fe4d33b20188f35f2a431b66704a"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "cae918e07855abafd486765b1a14c437e4a5fe5719d3071ac4cd512429eae29b"
 metafile = true
 
 [[files]]
@@ -171,7 +191,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "23add4d77395f8a5853e37a39b43ac9b2b6a1dbd41f8354214e3d2f4777ca829"
+hash = "86930120a47f560265af2c16fb70a376a23a7f3f55d4bb24751b72681eb42f19"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create-for-fabric-1-20-1.pw.toml"
+hash = "d752a2ffe4a829eb74644552aa8034f840f2e1cba6f429d59380ea5e3b773d42"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "81d29eaa469c67cd4111dfce12c66bfbe78571a69b5b60288f428c18875bab12"
 metafile = true
 
 [[files]]
@@ -232,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "8dd519be44b956dce7eaa2bcb5dffe7926402b7b2553e2b5e56cbcc9e69ccf86"
 metafile = true
 
 [[files]]

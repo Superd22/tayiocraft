@@ -1,0 +1,13 @@
+name = "Create builders"
+filename = "create-builders-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zLIL58cj/versions/T8Hp7Ris/create-builders-2.0.jar"
+hash-format = "sha512"
+hash = "245a91963dd7213b728336fcec22b41d034211f30aeae13569044cd499ca67248ed45241e8f762e1f4fa2557bfa05a767b4cd666ae2688d281da23e198a63c44"
+
+[update]
+[update.modrinth]
+mod-id = "zLIL58cj"
+version = "T8Hp7Ris"
