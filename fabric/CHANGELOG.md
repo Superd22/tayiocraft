@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/Superd22/tayiocraft/compare/fabric-v0.2.0...fabric-v0.2.1) (2024-10-06)
+
+
+### ♻ Bug Fixes
+
+* hotfix server side ([#11](https://github.com/Superd22/tayiocraft/issues/11)) ([6013b60](https://github.com/Superd22/tayiocraft/commit/6013b609105771d2640cdd2b45b73f29bb137574))
+
 ## [0.2.0](https://github.com/Superd22/tayiocraft/compare/fabric-v0.1.0...fabric-v0.2.0) (2024-10-06)
 
 
