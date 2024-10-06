@@ -1,0 +1,13 @@
+name = "Create: More Farmables"
+filename = "create_more_farmables-0.7-1.20.1.beta+Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/akdpvjri/versions/kVYI7XYb/create_more_farmables-0.7-1.20.1.beta%2BFabric.jar"
+hash-format = "sha512"
+hash = "a60e728438c53d12081d0246a8632f05a3eef07da850e8a0e825eee67b5e5b2c95517f5ed57fd9409f466d78cc28d03d7be18f4d1bfdea3d3b7f73ceb7e7b04f"
+
+[update]
+[update.modrinth]
+mod-id = "akdpvjri"
+version = "kVYI7XYb"
