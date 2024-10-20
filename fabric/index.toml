@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "7df3af6cb4e5cf25e6a0c899f52137c6546287560849c61d2140637f7af3d63f"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "af55977f15320f5a82ebfc8dda09bc3c816a363ed587043ee60595c48517b2aa"
 
@@ -136,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "2cd170e8b49d186c6ab454e0666ab9b12727c406c742253e77085089757817b3"
+hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
@@ -321,10 +325,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "01086a504d6c5a1d4e4983a4f047bf675725583d40531f5b6972f11f4ff98de0"
+hash = "fce84613bee3b0f5a3749b187c98f9aa60c54e384d46dabaca909c6059264354"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-shader-main.pw.toml"
-hash = "5b27237cad3b79f9ba6573e2c67897fe29aa8655b28ac8fc6880e0ce6855c9a4"
+hash = "b3c6dcafd78df7a65e083de96c45a2ee0e0a1a153d367fdd0e227ac7cb939caf"
 metafile = true
