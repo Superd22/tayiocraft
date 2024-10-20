@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/Superd22/tayiocraft/compare/fabric-v0.2.1...fabric-v0.2.2) (2024-10-20)
+
+
+### ♻ Bug Fixes
+
+* hotfix bliss shader update ([#14](https://github.com/Superd22/tayiocraft/issues/14)) ([32677b3](https://github.com/Superd22/tayiocraft/commit/32677b3ce02a1f0b0a05dcd780e51c48d508a60d))
+
 ## [0.2.1](https://github.com/Superd22/tayiocraft/compare/fabric-v0.2.0...fabric-v0.2.1) (2024-10-06)
 
 
